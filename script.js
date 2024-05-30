@@ -35,16 +35,11 @@ function imgClick(){
   main.classList.add('hide')
   main1.classList.remove("hide")
 
-  
-
 }
 
 
-
 function buttonClick(){
-
-  
-  
+ 
   main1.classList.add('hide')
   main.classList.remove("hide")
 
